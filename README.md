@@ -1,6 +1,6 @@
 # NFT-Price-Prediction (LSTM, RL, Regression)
 
-Codes for the team project on the price prediction of NFT's using regression with regularization methods, Stacked LSTM and Reinforce Learning models.
+Codes for a team project on the price prediction of NFT's using regression with regularization methods, Stacked LSTM and Reinforce Learning models.
 
 Used Open-AI Gym and Stable-baselines3 for the RL environment and algorithms (A2C, PPO).
 
